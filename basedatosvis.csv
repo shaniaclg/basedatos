@@ -1,1 +1,26 @@
-edad,carrera,semestre,ciudad,genero,trabajo24,iis,6,cdmx,hombre,si24,itc,3,guadalajara,no binario,si20,imt,4,puebla,hombre,si23,imd,8,puebla,hombre,no20,itc,1,cdmx,hombre,no19,iis,2,monterrey,hombre,si18,iis,2,monterrey,hombre,no23,itc,4,puebla,no binario,si20,iis,6,puebla,hombre,no21,imt,5,monterrey,hombre,no23,itc,2,guadalajara,mujer,no22,imd,7,guadalajara,mujer,no18,itc,5,monterrey,mujer,si23,imt,4,monterrey,mujer,si21,imt,8,cdmx,mujer,no21,imd,3,monterrey,mujer,no20,itc,2,cdmx,mujer,si21,iis,7,puebla,no binario,no24,iis,4,monterrey,mujer,no21,itc,6,guadalajara,mujer,no
+edad,carrera,semestre,ciudad,genero,trabajo
+24,iis,6,cdmx,hombre,si
+24,itc,3,guadalajara,no binario,si
+20,imt,4,puebla,hombre,si
+23,imd,8,puebla,hombre,no
+18,itc,1,cdmx,hombre,no
+19,iis,2,monterrey,hombre,si
+18,iis,2,monterrey,hombre,no
+23,itc,4,puebla,no binario,si
+20,iis,6,puebla,hombre,no
+21,imt,5,monterrey,hombre,no
+19,itc,2,guadalajara,mujer,no
+22,imd,7,guadalajara,mujer,no
+18,itc,5,monterrey,mujer,si
+23,imt,8,monterrey,mujer,si
+24,imt,8,cdmx,mujer,no
+21,imd,3,monterrey,mujer,no
+20,itc,2,cdmx,mujer,si
+21,iis,7,puebla,no binario,no
+24,iis,8,monterrey,mujer,no
+21,itc,6,guadalajara,mujer,no
+21,itc,6,guadalajara,mujer,no
+21,itc,6,guadalajara,mujer,no
+21,itc,6,guadalajara,mujer,no
+21,itc,6,guadalajara,mujer,no
+21,itc,6,guadalajara,mujer,si
